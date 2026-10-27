@@ -1,0 +1,18 @@
+[
+{
+"id": "TCK-001",
+"title": "No puedo iniciar sesión",
+"description": "El usuario recibe credenciales inválidas",
+"priority": "high",
+"status": "open",
+"requester": "ana@example.com"
+},
+{
+"id": "TCK-002",
+"title": "Actualizar navegador",
+"description": "Aplicación presenta incompatibilidad con versión antigua",
+"priority": "medium",
+"status": "in_progress",
+"requester": "luis@example.com"
+}
+]
